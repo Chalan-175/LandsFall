@@ -191,6 +191,9 @@ https://github.com/user-attachments/assets/545d9d2c-6aa8-4b21-84b3-98e63c8cd9b2
 
 ## 5. XIAO基板の取り付け
 
+> [!WARNING]
+> ネジ止め前に、PCBナットに付いているオレンジ色のフィルムを剥がしてください。この作業は、以降すべてのネジ止め作業で行ってください。
+
 XIAO nRF52840 Plusをはんだ付けしたXIAO基板を、メイン基板のコネクタに差し込み、付属のネジ（細・短／M1.2 × 3 mm）で固定してください。左右両方で行います。
 
 <img src="docs/images/xiaopcb_screw.JPG" width="480" alt="XIAO基板を固定するネジの位置">
