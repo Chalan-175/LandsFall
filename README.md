@@ -86,6 +86,7 @@ XIAO基板の印刷マーク（シルク印刷）を目印に、XIAO nRF52840 Pl
 <img src="docs/images/xiao_initsolder.JPG" width="480" alt="四隅のうち1か所をはんだ付けした状態">
 
 XIAO nRF52840 Plusのすべての側面端子をはんだ付けします。
+GitHubモバイルアプリをご利用の場合、動画が正しく再生できない場合があります。ブラウザをご利用ください。
 
 https://github.com/user-attachments/assets/f41f2cdf-cf8f-4341-8282-2b132139bbb9
 
