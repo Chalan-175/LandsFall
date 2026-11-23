@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# エディターの一時ファイル
+*.swp
+*.swo
+*~
